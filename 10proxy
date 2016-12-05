@@ -1,0 +1,1 @@
+Acquire::http::Proxy "http://con-ffm2-asg-01.conti.de:8080/";
